@@ -4,4 +4,4 @@ Repository zum üben der Git Befehle
 - branch 
 - chekout
 - merge
-un Co.
+- und Co.
