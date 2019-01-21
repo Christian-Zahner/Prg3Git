@@ -13,7 +13,7 @@ public class Playground {
 
         Git1.method1();
 
-        System.out.println("It's over " + Git2.method2());
+        System.out.println("It's over " + Git2.method2() + "!!!!!!!\n");
 
         System.out.println(Git3.method3());
         Git4.method4(25, (char)9977);
